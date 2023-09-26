@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <th><a href="https://hh.ru/resume/61b8c7efff0c6487510039ed1f41686f45566c">
+    <th><a href="https://hh.ru/resume/61b8c7efff0c6487510039ed1f41686f45566c" style="display: flex; align-contents: center; justify-content: center">
       <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />
       <span>My CV hh.ru</span>
     </a></th>
