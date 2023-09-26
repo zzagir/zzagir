@@ -1,7 +1,3 @@
-<style>
-  .align{color: red;}
-</style>
-
 <h1 align="center">Hi 👋, I'm Zagir</h1>
 <h1 align="center" class="align">Hi 👋, I'm Zagir</h1>
 <h3 align="left">Connect with me:</h3>
@@ -9,7 +5,7 @@
   <tr>
     <th><a href="https://hh.ru/resume/61b8c7efff0c6487510039ed1f41686f45566c" align="center">
       <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />
-      <span>My CV hh.ru</span>
+      My CV hh.ru
     </a></th>
     <th><a href="https://t.me/zzagir"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th
   </tr>
