@@ -3,7 +3,10 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <th><a href="https://hh.ru/resume/61b8c7efff0c6487510039ed1f41686f45566c">My CV hh.ru</a></th>
+    <th><a href="https://hh.ru/resume/61b8c7efff0c6487510039ed1f41686f45566c">
+      <img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />
+      <span>My CV hh.ru</span>
+    </a></th>
     <th><a href="https://t.me/zzagir"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th
   </tr>
   </table>
